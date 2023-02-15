@@ -2,8 +2,8 @@
 
 % Sample code of the paper:
 
-% Ya–juan Xue, Xing-jian Wang, Jun-xing Cao, Zhe-ge Liu and Jia Yang, "Quantum mechanics–based seismic energy absorption analysis for hydrocarbon detection." 
- submitted to Geophysical Journal International (2023).
+% Ya–juan Xue, Xing-jian Wang, Jun-xing Cao, Zhe-ge Liu and Jia Yang, Quantum mechanics–based seismic energy absorption analysis for hydrocarbon detection.Geophysical Journal International, 2023, ggad042, DOI: 10.1093/gji/ggad042. 
+
 
 % MATLAB code prepard by Ya-juan Xue
 % E-mail: xueyj0869@163.com
